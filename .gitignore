@@ -1,0 +1,14 @@
+# vscode
+.vscode/
+
+# database files
+*.db
+*.duckdb
+*.db-journal
+
+# data files
+*.csv
+*.txt
+
+# byte-compiled files
+__pycache__/
